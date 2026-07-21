@@ -27,24 +27,24 @@ Jumana Mohammed Ali
 ### 1. Executive Dashboard
 Provides an overview of key business KPIs and overall performance.
 
-![Executive Dashboard](executive-dashboard.png)
+![Executive Dashboard](executive%20dashboard.png.png)
 
 ### 2. Sales Analysis
 Shows sales trends, revenue, and regional performance.
 
-![Sales Analysis](sales-analysis.png)
+![Sales Analysis](sales%20analysis.png.png)
 
 ### 3. Customer Return Analysis
 Analyzes customer behavior and product return patterns.
 
-![Customer Return Analysis](customer-return-analysis.png)
+![Customer Return Analysis](customer%20return%20analysis.png.png)
 
 ### 4. Inventory Analysis
 Displays inventory levels and stock availability.
 
-![Inventory Analysis](inventory-analysis.png)
+![Inventory Analysis](inventory%20analysis.png.png)
 
 ### 5. Product Details
 Provides detailed information about products, categories, and performance.
 
-![Product Details](product-details.png)
+![Product Details](product%20details.png.png)
