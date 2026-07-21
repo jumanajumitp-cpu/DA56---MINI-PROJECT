@@ -22,6 +22,4 @@ This project is an interactive Power BI dashboard developed to analyze fashion b
 Jumana Mohammed Ali
 
 
-## Dashboard Preview
-
-![Dashboard](Screenshot 2026-07-21 145448.png)
+![Dashboard](Screenshot%202026-07-21%20145448.png)
